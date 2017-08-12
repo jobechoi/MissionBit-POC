@@ -13,8 +13,9 @@ Here's how to set up the [demo](../master/demo.md)
 We'll break into 5-person teams. 
 Each team will need to seat the following roles:
 * Lead developer
-* Developer - CI/CD/CL
-* Developer - enablement & onboarding
+* Developer, specializing in CI/CD/CL
+* Developer, specializing in enablement & onboarding
+* Developer, specializing in launch & "gsd"
 
 ### Your tools
 ---
