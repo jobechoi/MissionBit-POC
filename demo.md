@@ -6,3 +6,5 @@
 * Adjust Gemfile as needed
 * Compile exam.rb `ruby exam.rb`
 * Run twee2 to generate out.html `twee2 build exam.tw2 public\out.html`
+* Start the Rails server
+* Follow the preview link
