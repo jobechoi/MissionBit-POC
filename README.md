@@ -2,9 +2,7 @@
 ---
 Using [Ruby](https://www.ruby-lang.org/en/), we will write a small program that can take a multiple-choice exam, given to us as a [text file](../master/mce.txt), and make a micro game that works on a mobile phone for people taking the California Real Estate Sales License examination, and encapsulates it into a single page app (aka SPA).
 
-Here's a similar game that's already been built: https://agilesimulation.herokuapp.com/
-
-**_TFY: You can use Twee2 to decompile Twee2-games into the original .tw2 file_**
+Here's a similar game that's already been deployed: https://agilesimulation.herokuapp.com/
 
 Here's how to set up the [demo](../master/demo.md)
 
